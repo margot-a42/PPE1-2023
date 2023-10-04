@@ -12,3 +12,6 @@
 hvcfdncnv
 hbfchfbcshd
 ejrofjekdf,
+
+
+##Suite à la séance du 04/09 : 
