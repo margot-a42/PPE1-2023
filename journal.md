@@ -9,5 +9,5 @@ CECI EST UNE ERREUR !!!
 
 # Séance 3 : mise en pratique
 
-
-
+# Suite à la séance 4 
+encore des difficultés avec github et son utilisation dans le terminal, exercices sur les scripts en cours
