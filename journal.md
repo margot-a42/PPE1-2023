@@ -4,9 +4,6 @@
 
 ## Suite à la séance du 26/09 : récupération du dépôt personnel github sur la machine, et premières manipulations de celui-ci sur le terminal (exercice 2.a.2)
 
-
-CECI EST UNE ERREUR !!!
-
 # Séance 3 : mise en pratique
 
 
