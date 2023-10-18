@@ -6,5 +6,5 @@
 
 # Séance 3 : mise en pratique
 
-
-
+# Suite à la séance 4 
+encore des difficultés avec github et son utilisation dans le terminal, exercices sur les pipelines terminés sans problème. En revanche, je n'ai pas trop compris comment procéder aux exercices sur les scripts (ressources dans les diapos insuffisantes, que doit-on écrire concrètement? + première question pas claire selon moi).
