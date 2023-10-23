@@ -8,3 +8,6 @@
 
 # Suite à la séance 4 
 encore des difficultés avec github et son utilisation dans le terminal, exercices sur les pipelines terminés sans problème. En revanche, je n'ai pas trop compris comment procéder aux exercices sur les scripts (ressources dans les diapos insuffisantes, que doit-on écrire concrètement? + première question pas claire selon moi).
+
+# Suite à la séance 5 (exercices)
+Au fil des semaines je me familiarise avec le terminal, mais j'ai toujours du mal avec les scripts et ne comprend pas trop comment les rédiger. Ainsi, il est compliqué de "reprendre les scripts de la semaine dernière" et en faire quelque chose quand la correction de ceux-ci n'a pas été mise en ligne. J'ai tout de même essayé de faire une validation tant bien que mal à partir du script sûrement erronné que j'avais. J'espère mieux comprendre une fois la correction faite ce mercredi.
