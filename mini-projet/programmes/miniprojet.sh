@@ -10,6 +10,7 @@ fi
 fichier_urls="$1"
 fichier_tsv="tableaux/urls.tsv"
 
+
 N=0
 while read -r URL
 do
@@ -26,10 +27,8 @@ do
 done < "$1" > "$fichier_tsv"
 
 
-# Nom du fichier d'entrée
 tableau="$1"
 
-# Nom du fichier de sortie HTML
 tableau_html="tableaux/tableau-fr.html"
 
 echo "<html>
@@ -41,10 +40,8 @@ echo "<html>
     <table border='1'>
         <tr>$(awk -F'\t' '{for(i=1;i<=NF;i++)printf("<th>%s</th>",$i); exit}' "$tableau")</tr>" > "$tableau_html"
 
-# Ajouter le corps HTML avec les données
 awk -F'\t' '{printf("<tr>"); for(i=1;i<=NF;i++)printf("<td>%s</td>",$i); printf("</tr>\n")}' "$tableau" >> "$tableau_html"
 
-# Ajouter la fin du fichier HTML
 echo "    </table>
 </body>
 </html>" >> "$tableau_html"

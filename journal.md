@@ -11,3 +11,8 @@ encore des difficultés avec github et son utilisation dans le terminal, exercic
 
 # Suite à la séance 5 (exercices)
 Au fil des semaines je me familiarise avec le terminal, mais j'ai toujours du mal avec les scripts et ne comprend pas trop comment les rédiger. Ainsi, il est compliqué de "reprendre les scripts de la semaine dernière" et en faire quelque chose quand la correction de ceux-ci n'a pas été mise en ligne. J'ai tout de même essayé de faire une validation tant bien que mal à partir du script sûrement erronné que j'avais. J'espère mieux comprendre une fois la correction faite ce mercredi.
+
+
+# Suite à la séance 6 (exercices)
+
+J'ai réussi les exercices avec quelques difficultés, je n'ai pas réussi à corriger les erreurs d'encodage mais j'ai mieux compris comment fonctionnait les scripts.
